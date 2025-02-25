@@ -20,7 +20,7 @@ Software Engineering Day1 Assignment
   Deployment - Releasing the software to production environments
   Maintenance - Ongoing support, bug fixes, and enhancements after release
 
-# Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+# Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate
   Waterfall Methodology:
 
   Sequential, linear approach
